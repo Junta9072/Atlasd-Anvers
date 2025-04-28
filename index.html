@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./src/style.css" />
+    <link rel="stylesheet" href="./src/reset.css" />
+    <title>Kaartje</title>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.11.2/lib/p5.min.js"></script>
+    <script defer src="./src/menu.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body onload="setup()">
+    <script defer src="./src/main.js"></script>
+
+    <div class="menu">
+      <div class="titleBanner">
+        <img src="./img/ui/Bewegen_active.svg" class="bewegen" alt="" />
+        <img src="./img/ui/Knippen.svg" class="knippen" alt="" />
+        <img src="./img/ui/Pins_active.svg" class="pins" alt="" />
+        <img src="./img/ui/Tijdlijn.svg" class="tijdlijn" alt="" />
+        <img src="./img/ui/Gids.svg" class="gids" alt="" />
+        <img src="./img/ui/Links.svg" class="links" alt="" />
+      </div>
+      <div class="toggleData">
+        <input
+          type="radio"
+          id="move"
+          name="fav_language"
+          value="move"
+          checked="checked"
+          class="move"
+        />
+        <label for="move">Bewegen</label><br />
+        <input
+          class="cut"
+          type="radio"
+          id="cut"
+          name="fav_language"
+          value="cut"
+        />
+        <label for="cut">Snijden</label><br />
+        <input
+          type="checkbox"
+          id="markerToggle"
+          name="markerToggle"
+          checked="true"
+        />
+        <label for="markerToggle">Markers</label><br />
+        <input
+          type="checkbox"
+          id="timelineToggle"
+          name="timelineToggle"
+          value="false"
+        />
+        <label for="timelineToggle">Tijdlijn</label><br />
+      </div>
+    </div>
+    <div class="timeline timeline--bot">
+      <div class="timeline__data"></div>
+      <div class="timeline__close">
+        <img src="./img/ui/close.svg" alt="" />
+      </div>
+      <div class="timeline__details">
+        <div class="timeline__event__header">
+          <p class="timeline__event__year"></p>
+          <img class="timeline__event__img" src="" alt="" />
+        </div>
+
+        <div class="timeline__event__text">
+          <h2 class="timeline__event__title"></h2>
+          <p class="timeline__event__desc"></p>
+        </div>
+      </div>
+    </div>
+    <div class="timeline timeline--top">
+      <div class="timeline--flagged__close">
+        <img src="./img/ui/close.svg" alt="" />
+      </div>
+      <div class="timeline__container"></div>
+    </div>
+    <div class="guide">
+      <div class="guide__close">
+        <img src="./img/ui/close.svg" alt="" />
+      </div>
+      <div class="guide__container">
+        <h3 class="guide__header">Handleiding</h3>
+        <div class="guide__slide">
+          <div class="guide__img">
+            <img class="guide__icon" src="./img/ui/bewegen_icon.svg" alt="" />
+          </div>
+          <div class="guide__body">
+            <h4 class="guide__title">Bewegen</h4>
+            <p class="guide__desc">
+              Rondbewegen op de kaart kan door te klikken en je muis rond te
+              slepen.
+              <br />In- en uit-zoomen kan je met het scroll wiel doen.
+            </p>
+          </div>
+        </div>
+        <div class="guide__slide">
+          <div class="guide__img">
+            <img class="guide__icon" src="./img/ui/knippen_icon.svg" alt="" />
+          </div>
+          <div class="guide__body">
+            <h4 class="guide__title">Knippen</h4>
+            <p class="guide__desc">
+              Knip een gaatje in je kaart door de schaar aan te klikken en de
+              muis ingedrukt te slepen. <br />
+              Dan kan je kiezen welke kaart je wilt door op de pijltjes bovenaan
+              de kader te klikken. <br />
+              Beweeg de kader rond door op het pijltjes icoon je muis te klikken
+              en hem dan te slepen.
+            </p>
+          </div>
+        </div>
+        <div class="guide__slide">
+          <div class="guide__img">
+            <img class="guide__icon" src="./img/ui/tijdlijn_icon.svg" alt="" />
+          </div>
+          <div class="guide__body">
+            <h4 class="guide__title">De tijdlijn</h4>
+            <p class="guide__desc">
+              De tijdlijn geeft altijd een handvol evenementen weer dat in de
+              geschiedenis van Antwerpen en België plaatsvonden. <br />
+              Als je een vlag op je kaart aanklikt, dan wordt de tijdlijn
+              aangepast om de geschiedenis van die plek weer te geven.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="guide__confirm">Begrepen</div>
+    </div>
+    <div class="sources">
+      <div class="sources__close">
+        <img src="./img/ui/close.svg" alt="" />
+      </div>
+      <div class="sources__container">
+        <h3 class="sources__header">Bronnen</h3>
+        <ul class="sources__list"></ul>
+      </div>
+    </div>
+    <div class="loadingScreen">
+      <div class="loader">
+        <h2 class="loader__title">Loading</h2>
+        <div class="loader__barContainer">
+          <div class="loader__bar"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
