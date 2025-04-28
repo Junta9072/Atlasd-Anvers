@@ -1,0 +1,229 @@
+{
+  "markers": [
+    {
+      "name": "Centraal Station",
+      "x": "51.21726698303034",
+      "y": "4.421140610836571",
+      "type": "train"
+    },
+    {
+      "name": "boerentoren",
+      "x": "51.21864460532668",
+      "y": "4.404148816780254",
+      "type": "column"
+    },
+    {
+      "name": "Hendrik Consience Plein",
+      "x": "51.22098142898472",
+      "y": "4.404290973663288",
+      "type": "column"
+    },
+    {
+      "name": "Red Star Line",
+      "x": "51.23313698653687",
+      "y": "4.403292341621542",
+      "type": "ship"
+    },
+    {
+      "name": "De Handelsbeurs",
+      "x": "51.2193367609664",
+      "y": "4.406173884600492",
+      "type": "column"
+    },
+
+    {
+      "name": "Stadshuis",
+      "x": "51.22132245073423",
+      "y": "4.399310111746408",
+      "type": "castle"
+    },
+    {
+      "name": "MAS",
+      "alt": ["Hanzestedenhuis"],
+      "x": "51.228448758252235",
+      "y": "4.404911820514698",
+      "type": "column"
+    },
+    {
+      "name": "O.L.V Kathedraal",
+      "x": "51.22030441744193",
+      "y": "4.401498794297335",
+      "type": "castle"
+    },
+    {
+      "name": "Sterckxhof",
+      "x": "51.21488008998397",
+      "y": "4.4628215332661",
+      "type": "castle"
+    },
+    {
+      "name": "De citadel",
+      "x": "51.20833343572146",
+      "y": "4.392642597971914",
+      "type": "castle"
+    },
+    {
+      "name": "Noorderkasteel",
+      "x": "51.24199899586938",
+      "y": "4.393999463587143",
+      "type": "castle"
+    },
+    {
+      "name": "Bourlaschouwburg",
+      "x": "51.2160381100906",
+      "y": "4.4075733469448135",
+      "type": "column"
+    },
+    {
+      "name": "Rubenshuis",
+      "x": "51.21712260101564",
+      "y": "4.409738751408578",
+      "type": "column"
+    },
+    {
+      "name": "St.- Anna tunnel",
+      "alt": ["St.- Jansvliet"],
+      "x": "51.21870886237005",
+      "y": "4.3959430624423375",
+      "type": "ship"
+    },
+    {
+      "name": "Kennedytunnel",
+      "x": "51.2031735739432",
+      "y": "4.374297951274912",
+      "type": "ship"
+    },
+    {
+      "name": "Waeslandtunnel",
+      "alt": ["Brouwersvliet", "Eerste vliet"],
+      "x": "51.227134825043606",
+      "y": " 4.410246159757626",
+      "type": "ship"
+    },
+    {
+      "name": "Waterpoort",
+      "x": "51.20811820502956",
+      "y": " 4.388907511975844",
+      "type": "castle"
+    },
+    {
+      "name": "Kipdorp poort",
+      "x": "51.21967216852871",
+      "y": "4.416486814619462",
+      "type": "castle"
+    },
+    {
+      "name": "St.- Jorispoort",
+      "x": "51.211639210594086",
+      "y": " 4.408324362671499",
+      "type": "castle"
+    },
+    {
+      "name": "Rode poort",
+      "x": "51.224550517747915",
+      "y": "4.415332619212479",
+      "type": "castle"
+    },
+    {
+      "name": "Slijkpoort",
+      "x": "51.23113809527411",
+      "y": "4.40531850440655",
+      "type": "castle"
+    },
+    {
+      "name": "Zuiderdokken",
+      "x": "51.20929466743957",
+      "y": "4.389244783701251",
+      "type": "ship"
+    },
+    {
+      "name": "Harmoniepark",
+      "alt": ["Galgenveld"],
+      "x": "51.200743002751345",
+      "y": "4.4119471727243225",
+      "type": "column"
+    },
+    {
+      "name": "Stadspark",
+      "x": "51.212224764640965",
+      "y": "4.41455581038423",
+      "type": "castle"
+    },
+    {
+      "name": "De oude stad",
+      "x": "51.22347844406229",
+      "y": "4.39785060006931",
+      "type": "castle"
+    },
+    {
+      "name": "Het steen",
+      "x": "51.222654717689494",
+      "y": "4.397548485338532",
+      "type": "castle"
+    },
+    {
+      "name": "Hessenhuis",
+      "x": "51.225692990349565",
+      "y": "4.4094221210899915",
+      "type": "ship"
+    },
+    {
+      "name": "Oudaan",
+      "x": "51.21623829339874",
+      "y": "4.403858850579375",
+      "type": "column"
+    },
+    {
+      "name": "Den botaniek",
+      "x": "51.21452184251452",
+      "y": "4.40649055537187",
+      "type": "column"
+    },
+    {
+      "name": "Brug over de Schelde",
+      "x": "51.25691721120714",
+      "y": "4.303405741698569",
+      "type": "castle"
+    },
+    {
+      "name": "De stadscampus",
+      "x": "51.222817489083525",
+      "y": "4.4102444670525776",
+      "type": "column"
+    },
+    {
+      "name": "St.- Pietersvliet",
+      "x": "51.225933453294886",
+      "y": "4.400829828381681",
+      "type": "ship"
+    },
+    {
+      "name": "De 3 Noordelijke vlieten",
+      "alt": [
+        "Bonapartedok",
+        "Willemdok",
+        "Middelvliet",
+        "Timmervliet",
+        "Graanvliet",
+        "Koolvliet",
+        "Oostersevliet"
+      ],
+      "x": "51.225933453294886",
+      "y": " 4.400829828381681",
+      "type": "ship"
+    },
+    {
+      "name": "Justitiepaleis",
+      "alt": ["Zuidstatie"],
+      "x": "51.20408209700735",
+      "y": "4.387590248555505",
+      "type": "train"
+    },
+    {
+      "name": "Park spoor noord",
+      "x": "51.23068832658872",
+      "y": "4.4249828140289225",
+      "type": "train"
+    }
+  ]
+}

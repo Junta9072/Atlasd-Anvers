@@ -1,0 +1,323 @@
+{
+  "events": [
+    {
+      "title": "Romeinse Tijd",
+      "desc": "Gallo Romeinse nederzetting bij de Willem Ogierplaats",
+      "type": "event",
+      "icon": "mil",
+      "time": 270,
+      "img": {
+        "url": "https://i.imgur.com/dIJugeI.jpeg",
+        "alt": "Pot uit de periode van de Gallo-Romeinen die in de kelder van het stadhuis terug aan het licht is gekomen tijdens de opgravingen. Er wordt nu verder onderzocht, waarvoor deze gebruikt werd."
+      }
+    },
+    {
+      "title": "Merovingische Tijd",
+      "desc": "Bekeringsexpedities van Amandus en Eligius brengen het christendom naar Vlaanderen.",
+      "type": "event",
+      "icon": "church",
+      "time": 641,
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Saintamandus.jpg",
+        "alt": "Amandus en de slang (14e-eeuwse illuminatie)"
+      }
+    },
+    {
+      "title": "Viking Tijd",
+      "desc": "Vikingen Harald en Rorik teisteren de Schelde door dorpen en steden langs rivieren plat te branden en te plunderen.",
+      "type": "era",
+      "icon": "mil",
+      "time": [837, 889],
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Rorik_by_H._W._Koekkoek.jpg/440px-Rorik_by_H._W._Koekkoek.jpg",
+        "alt": "Rorik volgens H.W. Koekkoek in 1912"
+      }
+    },
+    {
+      "title": "Antwerpen aan een bedreigde grens",
+      "desc": "Stadsversterkingen onder Oost Frankische Keizer Otto I",
+      "type": "event",
+      "icon": "mil",
+      "time": 958,
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Otto_I%2C_Holy_Roman_Emperor_and_Berengar.jpg/532px-Otto_I%2C_Holy_Roman_Emperor_and_Berengar.jpg",
+        "alt": "Otto bij zijn overwinning op Berengarius II"
+      }
+    },
+    {
+      "title": "Van gehucht naar burcht",
+      "desc": "Versterking en verhoging van de aarden nu uit stenen wal rond de burcht in opdracht van Keizer Otto II",
+      "type": "event",
+      "icon": "mil",
+      "time": 980,
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Burchtkerk_Antwerpen_-_1565.jpg/330px-Burchtkerk_Antwerpen_-_1565.jpg",
+        "alt": "De burchtkerk in Antwerpen"
+      }
+    },
+    {
+      "title": "Vuurproef",
+      "desc": "Aanvallen uit toen nog links van de Schelde gelegen Vlaanderen van Graaf Boudewijn V. De burcht brandt uit.",
+      "type": "event",
+      "icon": "mil",
+      "time": 1055,
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Boudewijn_V.jpg/520px-Boudewijn_V.jpg",
+        "alt": "Boudewijn V van Vlaanderen"
+      }
+    },
+    {
+      "title": "Stadsrechten",
+      "desc": "Antwerpen krijgt een Stadszegel en krijgt dus vrijheden van de kroon, toen Hendrik II",
+      "type": "event",
+      "icon": "culture",
+      "time": 1194,
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Stadsrechten_Stadhuis_Enkhuizen_20081227.jpg/960px-Stadsrechten_Stadhuis_Enkhuizen_20081227.jpg",
+        "alt": "Stadsrechten van Enkhuizen afgebeeld in een houtsnijwerk aan de stadshuisgevel."
+      }
+    },
+    {
+      "title": "Eerste loodjes",
+      "desc": "De eerste kraan verschijnt aan de Werf.",
+      "type": "event",
+      "icon": "econ",
+      "time": 1263,
+      "img": {
+        "url": "https://janlampo.com/wp-content/uploads/2011/11/kraan.jpg",
+        "alt": "De kraan op de vroegere Werf van Antwerpen, in de miniatuurstad."
+      }
+    },
+    {
+      "title": "De Pest",
+      "desc": "na Turkije, Italië en Frankrijk bereikt de Pest ook Antwerpen.",
+      "type": "event",
+      "icon": "culture",
+      "time": 1384,
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Doutielt3.jpg/520px-Doutielt3.jpg",
+        "alt": "Begrafenis van pestslachtoffers te Doornik. (Kroniek van Gilles Li Muisis (1272-1352))"
+      }
+    },
+    {
+      "title": "De eerste bourgondiër",
+      "desc": "Filips 'de Stoute' Van Bourgondië krijgt heerschappij van Vlaanderen als deel van zijn huwelijk met Margareta van Male.",
+      "type": "event",
+      "icon": "pol",
+      "time": 1384,
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Philippe_le_Hardi_mg_1694.jpg/960px-Philippe_le_Hardi_mg_1694.jpg",
+        "alt": "Filips de Stoute, anoniem portret naar een verloren origineel van Jan Maelwael."
+      }
+    },
+    {
+      "title": "Bourgondische Tijden",
+      "type": "era",
+      "icon": "pol",
+      "time": [1384, 1477],
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/15th-century_painters_-_Surrender_of_the_Burghers_of_Ghent_in_1453_-_WGA15789.jpg/520px-15th-century_painters_-_Surrender_of_the_Burghers_of_Ghent_in_1453_-_WGA15789.jpg",
+        "alt": "Na de nederlaag bij de slag van Gavere in 1453 moesten de Gentenaars Filips de Goede om vergiffenis smeken, in hun hemd, op hun knieën en in het Frans."
+      }
+    },
+    {
+      "title": "De laatste Bourgondiërs",
+      "desc": "Karel de Stoute sterft bij de slag bij Nancy en laat als enige dochter Vlaanderen en Brabant na aan Maria van Bourgondië, zij trouwt later met de Heilig Roomse Keizer Maximiliaan (een Habsburger). ",
+      "type": "event",
+      "icon": "mil",
+      "time": 1477,
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mary_of_Burgundy_%281458%E2%80%931482%29%2C_by_Netherlandish_or_South_German_School_of_the_late_15th_Century.jpg/532px-Mary_of_Burgundy_%281458%E2%80%931482%29%2C_by_Netherlandish_or_South_German_School_of_the_late_15th_Century.jpg",
+        "alt": "Maria Van Bourgondië. Portret door Michael Pacher, tussen 1450 tot 1499"
+      }
+    },
+    {
+      "title": "Habsburgse Tijden",
+      "desc": "Onder het Heilig Roomse Rijk werden de nederlanden heen en weer gespeeld in huwelijken.",
+      "type": "era",
+      "icon": "pol",
+      "time": [1482, 1568],
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Marriage_of_Mary_of_Burgundy_and_Maximilian_of_Austria.jpg/520px-Marriage_of_Mary_of_Burgundy_and_Maximilian_of_Austria.jpg",
+        "alt": "Huwelijk van Maria van Bourgondië en Maximiliaan van Oostenrijk"
+      }
+    },
+    {
+      "title": "De beeldenstorm",
+      "desc": "Filips II, opvolger van Karel V maakt Margareta van Parma landvoogdes. Wanneer zij toegevingen maakt aan de groeiende calvinistenbeweging mondt dit uit in de beeldenstorm.",
+      "type": "event",
+      "icon": "church",
+      "time": 1566,
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Beeldenstorm_%28Iconoclastic_Fury%29_in_Antwerpen_1566_Frans_Hogenberg.jpg/520px-Beeldenstorm_%28Iconoclastic_Fury%29_in_Antwerpen_1566_Frans_Hogenberg.jpg",
+        "alt": "Vernieling van de Onze-Lieve-Vrouwekathedraal te Antwerpen op 20 augustus 1566. (gravure gemaakt door Frans Hogenberg)"
+      }
+    },
+    {
+      "title": "De 80-jarige Oorlog",
+      "desc": "Tachtigjarige oorlog, Margareta stapt ontzet door de beeldenstorm af, en de 'Ijzeren Hertog' van Alva werd aangesteld door Keizer Filips.",
+      "type": "era",
+      "icon": "mil",
+      "time": [1568, 1648],
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Parma%27s_brug%2C_Antwerpen_1585.JPG/960px-Parma%27s_brug%2C_Antwerpen_1585.JPG",
+        "alt": "Om te voorkomen dat Antwerpen bij de belegering van 1584-1585 bevoorraad kon worden via het water door Nederlandse schepen, liet Parma met hulp van Italiaanse ingenieurs een enorme schipbrug maken over de Schelde. Het werkte en de uitgehongerde stad capituleerde na een beleg van 13 maanden."
+      }
+    },
+    {
+      "title": "De Spaanse Furie",
+      "desc": "De spaanse staat dat zijn soldaten niet meer kon betalen na talloze lange oorlogen verloor controle over zijn troepen, die tekeer gingen tegen de bevolking van Antwerpen.",
+      "type": "event",
+      "icon": "mil",
+      "time": 1576,
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/De_Spaanse_Furie%2C_anoniem%2C_ca_1585%2C_MAS.jpg/960px-De_Spaanse_Furie%2C_anoniem%2C_ca_1585%2C_MAS.jpg",
+        "alt": "De Spaanse Furie, anoniem, ca 1585, MAS"
+      }
+    },
+    {
+      "title": "De Franse Furie",
+      "desc": "Frans van Anjou probeerde Antwerpen in te nemen nadat hij niet veel gezag kreeg van de bevolking als Franse landsheer aangesteld om de Spaanse troepen te helpen verjagen.",
+      "type": "event",
+      "icon": "mil",
+      "time": 1583,
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hugo-de-Groot-Nederlandtsche-jaerboeken_MG_0174.tif/lossy-page1-532px-Hugo-de-Groot-Nederlandtsche-jaerboeken_MG_0174.tif.jpg",
+        "alt": "De Mislukte Aanslag des Hartogen van Anjou op Antwerpen in den Jaare 1583"
+      }
+    },
+    {
+      "title": "Het beleg van Antwerpen",
+      "desc": "Het losscheuren van de lagen landen en de oorlog die eruit volgt betekent voor Antwerpen het einde van de gouden eeuw. Dit beleg en de inname van de stad door Spaanse troepen is het slot daarvan.",
+      "type": "event",
+      "icon": "mil",
+      "time": 1584,
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Intocht_van_Parma_te_Antwerpen_1585.jpg/520px-Intocht_van_Parma_te_Antwerpen_1585.jpg",
+        "alt": "Parma's intocht te Antwerpen"
+      }
+    },
+    {
+      "title": "Franse Revolutie",
+      "desc": "",
+      "type": "event",
+      "icon": "pol",
+      "time": 1789,
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Prise_de_la_Bastille.jpg/960px-Prise_de_la_Bastille.jpg",
+        "alt": "Jean-Pierre Houël: De bestorming van de Bastille"
+      }
+    },
+    {
+      "title": "Onder Napoleon",
+      "desc": "Het graafschap Vlaanderen en Brabant worden ingelijfd bij het Franse Republiek.",
+      "type": "event",
+      "icon": "mil",
+      "time": 1795,
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Van_Bree-Le_Friedland.jpg/520px-Van_Bree-Le_Friedland.jpg",
+        "alt": "Napoleon aanschouwt de tewaterlating van een oorlogsschip in Antwerpen"
+      }
+    },
+    {
+      "title": "Verenigde Nederlanden",
+      "desc": "Met de nederlaag van Napoleon en de restauratie van Europa werden de zuidelijke Nederlanden terug samengevoegd met de vereenigde Nederlanden.",
+      "type": "event",
+      "icon": "pol",
+      "time": 1814,
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Coloured_engraving_Vienna_Congress.jpg/960px-Coloured_engraving_Vienna_Congress.jpg",
+        "alt": "Staatslieden bijeen op het Congres van Wenen"
+      }
+    },
+    {
+      "title": "De Belgische Revolutie",
+      "desc": "Pogingen van Willem I om Nederlands in alle huidige Vlaamse provincies in te voeren leidt tot ontevredenheid bij de waalse bevolking. Een opvoering van 'La muette de Portici' (een opera over vrijheid en volksopstand) leidde tot rumoer in Brussel en wordt vaak gezien als de katalisator van de revolutie.",
+      "type": "event",
+      "icon": "pol",
+      "time": 1830,
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gustave_Wappers_-_%C3%89pisode_des_Journ%C3%A9es_de_septembre_1830_sur_la_place_de_l%27H%C3%B4tel_de_Ville_de_Bruxelles.jpg/532px-Gustave_Wappers_-_%C3%89pisode_des_Journ%C3%A9es_de_septembre_1830_sur_la_place_de_l%27H%C3%B4tel_de_Ville_de_Bruxelles.jpg",
+        "alt": "Tafereel van de Septemberdagen 1830 op de Grote Markt te Brussel"
+      }
+    },
+    {
+      "title": "Vrij België op het wereldtoneel",
+      "desc": "De wereldtentoonstelling komt naar Antwerpen.",
+      "type": "event",
+      "icon": "culture",
+      "time": 1885,
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Exposition_Universelle_d%27Anvers_%281885%29.jpg/532px-Exposition_Universelle_d%27Anvers_%281885%29.jpg",
+        "alt": "Poster voor de wereldtentoonstelling in Antwerpen in 1885"
+      }
+    },
+    {
+      "title": "Grootse plannen",
+      "desc": "Het Centraal Station wordt gebouwd.",
+      "type": "event",
+      "icon": "culture",
+      "time": 1885,
+      "img": {
+        "url": "https://photos.smugmug.com/photos/i-TxrQN7X/1/MqrmpT7CrGkzzbtc6gdxpLCpnQ3tDDrQ2Svn7tmS6/O/i-TxrQN7X.jpg",
+        "alt": "Een sepia foto van het Centraal station"
+      }
+    },
+    {
+      "title": "Wereldoorlog 1",
+      "desc": "België is eerst onafhankelijk, maar werd binnengevallen door het Duitse leger nadat ze weigerden Duitse troepen door te laten om rond de stevig versterkte Duits-Franse grens te geraken.",
+      "type": "era",
+      "icon": "church",
+      "time": [1914, 1918],
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Willy_St%C3%B6wer_-_Antwerpen_1914.JPG/520px-Willy_St%C3%B6wer_-_Antwerpen_1914.JPG",
+        "alt": "De vlucht uit Antwerpen over de Schelde in 1914"
+      }
+    },
+
+    {
+      "title": "Nieuwe hoogtes",
+      "desc": "De wereldtentoonstelling komt naar Antwerpen. De boerentoren wordt als boegbeeld opgetrokken in zijn tijd de eerste wolkenkrabber van Europa.",
+      "type": "event",
+      "icon": "culture",
+      "time": 1930,
+      "img": {
+        "url": "https://brabo.smugmug.com/Brabo/archief/M/i-zbtm7M4/1/L/meir%20boerentoren-L.jpg",
+        "alt": "De Boerentoren zonder de huidige KBC blok erop."
+      }
+    },
+    {
+      "title": "De 18-daagse veldtocht",
+      "desc": "De Duitsers vallen onaangekondigd België binnen en veroveren het op 18 dagen.",
+      "type": "event",
+      "icon": "mil",
+      "time": 1940,
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Belgian_soldiers_in_a_trench%2C_1940.jpg",
+        "alt": "Belgische soldaten in een loopgraaf, 1940"
+      }
+    },
+    {
+      "title": "Bevrijding",
+      "desc": "Antwerpen wordt bevrijd door Kolonel Silvertop.",
+      "type": "event",
+      "icon": "mil",
+      "time": 1944,
+      "img": {
+        "url": "https://www.antwerpenherdenkt.be/uploads/cache/image_jpg/uploads/media/5cd3de44ebe1e/1-1-sa091027-tank-voor-stadhuis.jpg",
+        "alt": "Vreugdefeesten op de Grote Markt"
+      }
+    },
+    {
+      "title": "Wereldoorlog 2",
+      "desc": "Het kortstondige verzet van het Belgische leger leidt tot de kapitulatie van België. Het Belgische verzet zet zich in om info door te spelen en helpt bij de bevrijding de Britse troepen in de haven van Antwerpen.",
+      "type": "era",
+      "icon": "mil",
+      "time": [1939, 1944],
+      "img": {
+        "url": "https://www.antwerpenherdenkt.be/uploads/cache/timeline_single_landscape/uploads/media/5c9a495c5b4b2/81-cegesoma-kmsk-26621.jpg",
+        "alt": "Een ingeslagen V2 bom nabij het KMSKA."
+      }
+    }
+  ]
+}

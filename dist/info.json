@@ -1,0 +1,1303 @@
+{
+  "markers": [
+    {
+      "title": "Centraal Station",
+      "type": "train",
+      "alt": ["Spoorwegkathedraal", "Middenstatie"],
+      "img": {
+        "url": "https://photos.smugmug.com/photos/i-TxrQN7X/1/MqrmpT7CrGkzzbtc6gdxpLCpnQ3tDDrQ2Svn7tmS6/O/i-TxrQN7X.jpg",
+        "alt": "Een sepia foto van het Centraal station"
+      },
+      "desc": "Het Centraal Station van Antwerpen, twee keer herbouwd tot het huidige station er stond in de door de architect beschreven 'barok-middeleeuws eclecticisme'.",
+      "timeline": [
+        {
+          "time": 1836,
+          "info": "Opening nabij de nog intacte Spaanse omwalling"
+        },
+        {
+          "time": 1854,
+          "info": "Vervanging van het stationsgebouw."
+        },
+        {
+          "time": 1873,
+          "info": "Het station wordt doodlopend door dichterbevolkt noorderlijke uitgang."
+        },
+        {
+          "time": 1899,
+          "info": "Het tweede station wordt afgebroken en het huidige wordt gebouwd tussen 1899 en 1905 gebouwd"
+        },
+        {
+          "time": 1998,
+          "info": "Een tunnel naar het noorden wordt gegraven tussen 1998 en 2006."
+        }
+      ]
+    },
+    {
+      "title": "boerentoren",
+      "type": "column",
+      "img": {
+        "url": "https://brabo.smugmug.com/Brabo/archief/M/i-zbtm7M4/1/L/meir%20boerentoren-L.jpg",
+        "alt": "De Boerentoren zonder de huidige KBC blok erop."
+      },
+      "desc": "De Boerentoren of KBC-toren is een in 1931 voltooid monumentaal bouwwerk in art-deco-stijl in het centrum van Antwerpen. Het is de eerste wolkenkrabber van Europa, en destijds daarmee het hoogste torengebouw van Europa.",
+
+      "timeline": [
+        {
+          "time": 1914,
+          "info": "Het gebied waar nu de boerentoren staat is platgebombardeerd door de duitsers."
+        },
+        {
+          "time": 1920,
+          "info": "Voor de wereldtentoonstelling zocht de burgemeester een bouwwerk dat de Meir zou afmaken, hij verkocht de grond aan de Algemene Bankvereniging dat met de middenkredietkas samenwerkte. De middenkredietkas was op zijn beurt deel van de boerenbond."
+        },
+        {
+          "time": 1928,
+          "info": "De bouw van de boerentoren start naar de plannen van architecten Emiel Van Averbeke, Jan Vanhoenacker en Jos Smolderen."
+        },
+        {
+          "time": 1931,
+          "info": "De bouw van de boerentoren werdt voltooid, met wat moeilijkheden. De middenkredietkas ging failliet, werdt gered door de Algemene bankvereniging en men zei dat de boerentoren gebouwd was gebouwd met het geld van de boeren."
+        }
+      ]
+    },
+    {
+      "title": "Hendrik Consience Plein",
+      "type": "column",
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wiki_Loves_Art_-_Antwerpen_-_Erfgoedbibliotheek_Hendrik_Conscience_-_gebouw_%285%29.jpg/1024px-Wiki_Loves_Art_-_Antwerpen_-_Erfgoedbibliotheek_Hendrik_Conscience_-_gebouw_%285%29.jpg",
+        "alt": "De ingang tot het Hendrik Consience Plein."
+      },
+      "desc": "De Sint-Carolus Borromeuskerk is een parochiekerk en voormalige jezuïetenkerk in barokke stijl genoemd naar Carlo Borromeo. De kerk heeft een uitgang dat uitkomt in de ruien.",
+      "timeline": [
+        {
+          "time": 1481,
+          "info": "Een collectie van 41 boeken wordt geschonken aan de stad."
+        },
+        {
+          "time": 1505,
+          "info": "De eerste vorm van de stadsbibliotheek wordt opgericht in een kamer van het Stadshuis."
+        },
+        {
+          "time": 1567,
+          "info": "De originele bibcollectie gaat ten onder tijdens de spaanse furie."
+        },
+        {
+          "time": 1594,
+          "info": "Wat overblijft en nieuwe toevoegingen worden ondergebracht in de voormalige kamer van de Burgerwacht in het Stadshuis."
+        },
+        {
+          "time": 1615,
+          "info": "Op de voormalige Ankerrui wordt een kerk gebouw in barroke stijl, origineel was ze gewijd aan ignatius van Loyola. Tegenover de kerk bouwen ze een Sodaliteit, waar later de stadsbibliotheek in zou gehuisd worden."
+        },
+        {
+          "time": 1648,
+          "info": "De boekencollectie wordt verzet naar het bovenverdiep van de Beurs."
+        },
+        {
+          "time": 1687,
+          "info": "Na een aantal jaar van verwaarlozing wordt de collectie door Andries van Valckenisse geindexeerd en verplaatst naar de voormalige Pestkamer van het Stadshuis."
+        },
+        {
+          "time": 1773,
+          "info": "Met de opheffing van de Jezuietenorde wordt de kerk opnieuw gewijd, deze keer aan Carolus Borromeus. De Sodaliteit tegenover de kerk wordt gebruikt als danszaal, café en allerhande doelen."
+        },
+        {
+          "time": 1803,
+          "info": "De kerk werd eerst gebruikt voor godsdienstonderwijs, maar na 1803 als parochiekerk."
+        },
+        {
+          "time": 1805,
+          "info": "De bilbiotheek wordt opengezet aan het publiek, nog niet in het huidige gebouw maar wel al met werken die tot vandaag terug te vinden zijn."
+        },
+        {
+          "time": 1834,
+          "info": "De bibliotheek onder leiding van Frans-Hendrik Mertens en Constant-Jacob Hansen, splitst de bib in een hedendaagse collectie en een bewaarcollectie."
+        },
+        {
+          "time": 1879,
+          "info": "Met 43.000 boeken in de stadsbibliotheek en 20.000 boeken is er een plaatstekort in de kamer van het Stadshuis, de stad beslist de Sodaliteit te kopen tegenover de kerk om daarin de collectie te huisvesten."
+        }
+      ]
+    },
+    {
+      "title": "Red Star Line",
+      "type": "ship",
+      "img": {
+        "url": "https://screen.brussels/sites/default/files/main-images/red_star_line.jpg",
+        "alt": "Het schip 'Pennland' dat Manhattan langsvaart."
+      },
+      "desc": "De Red Star Line of Société Anonyme de Navigation Belge-Américaine (SANBA) was een Belgische rederij die een geregelde dienst onderhield tussen Antwerpen en New York en soms tussen Antwerpen en Philadelphia.",
+      "timeline": [
+        {
+          "time": 1872,
+          "info": "SANBA wordt opgericht."
+        },
+        {
+          "time": 1913,
+          "info": "De rederij ervaart haar hoogtepunt, ze vervoeren in totaal ong. 2 miljoen passagiers waarvan een kwart joods."
+        },
+        {
+          "time": 1921,
+          "info": "Immigratie wetten vanuit de VS beperken het aantal binnenkomende passagiers en doen winst dalen."
+        },
+        {
+          "time": 1929,
+          "info": "De beurscrash van dit jaar is de finale oorzaak voor het faillisement van SANBA."
+        }
+      ]
+    },
+    {
+      "title": "De Handelsbeurs",
+      "type": "column",
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Maxime_Lalanne_B%C3%B6rse_von_Antwerpen.jpg/700px-Maxime_Lalanne_B%C3%B6rse_von_Antwerpen.jpg",
+        "alt": "Een schets van de oude beurs."
+      },
+      "desc": "Hier bevond zich van 1531 tot 1997 de Antwerpse effectenbeurs, 'de moeder van alle beurzen'. Dit gebouw was in 1531 de nieuwe beurs ter vervanging van de Oude Beurs in de Hofstraat.",
+      "timeline": [
+        {
+          "time": 1531,
+          "info": "Antwerpen wordt een handelsmetropool in Europa, dit gebouw (origineel zonder overdekking) zou het brandpunt van Europese handel vormen voor een halve eeuw."
+        },
+        {
+          "time": 1583,
+          "info": "De beurs brand af en wordt direct en identiek terug opgebouwd."
+        },
+        {
+          "time": 1584,
+          "info": "Het beleg en uiteindelijke overgave van Antwerpen aan Spaanse troepen markeert het einde van het handelsleven."
+        },
+        {
+          "time": 1661,
+          "info": "Het gebouw wordt gebruikt als tekenacademie en als zetel van de St.- Lucas gilde."
+        },
+        {
+          "time": 1853,
+          "info": "Naar een ontwerp van Charles Marcellis, wordt de beurs overkoepeld."
+        },
+        {
+          "time": 1858,
+          "info": "De beurs brand een tweede keer af."
+        },
+        {
+          "time": 1997,
+          "info": "De beurs wordt opgedoekt en de handel verhuist naar Brussel."
+        }
+      ]
+    },
+    {
+      "title": "Stadshuis",
+      "type": "castle",
+      "img": {
+        "url": "https://photos.smugmug.com/photos/i-QkNrX6X/1/NBbnMTFFpg5tcwtjrJzLZn5MGGVvkm9ZfNrDdHMDT/O/i-QkNrX6X.jpg",
+        "alt": "De vrijwel onveranderde Grote Markt."
+      },
+      "desc": "Het Stadshuis was de vervanger voor het schepenhuis en is gebouwd op gemeentegrond om de kosten te drukken. Ontworpen door Cornelis Floris De Vriendt in de renaissancebouwstijl.",
+      "timeline": [
+        {
+          "time": 1560,
+          "info": "De aanvang van de bouw van het stadshuis."
+        },
+        {
+          "time": 1564,
+          "info": "Inhuldiging van het afgemaakte stadshuis."
+        },
+        {
+          "time": 1576,
+          "info": "Spaanse soldaten dat tijdens de spaanse furie geen loon kregen besloten de stad te plunderen, er kwam verzet vanuit het stadshuis waarop de soldaten een brand stichtte. Het dak en het interieur zijn toen verloren gegaan."
+        },
+        {
+          "time": 1587,
+          "info": "Een beeld van brabo dat symbool stond voor de relatieve onafhankelijkheid van de stad wordt vervangen door een mariabeeldje door de jezuieten tijdens de contrareformatie."
+        },
+        {
+          "time": 1853,
+          "info": "Het stadshuis wordt gerenoveerd, over de komende tiental jaren zou de gevel volledig vervangen worden."
+        }
+      ]
+    },
+    {
+      "title": "MAS",
+      "alt": ["Hanzestedenhuis", "Oostershuis"],
+      "type": "column",
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hansehausantwerpen.jpg/500px-Hansehausantwerpen.jpg",
+        "alt": "Het Oostershuis toen nog omsingeld door de vlieten."
+      },
+      "desc": "Het MAS staat op de plek waar vroeger de zetel van het duitse handelsverbond stond.",
+      "timeline": [
+        {
+          "time": 1564,
+          "info": "Het duitse handelsverbond besliste in 1562 om haar zetel van Brugge naar Antwerpen te verhuizen, en laat het Oostershuis bouwen tussen 1564 en 1568."
+        },
+        {
+          "time": 1585,
+          "info": "Door de val van Antwerpen aan de spaanse kroon verlieten veel handelaren de stad en werd het gebouw gebruikt als handelspand, legerkazerne en militair ziekenhuis."
+        },
+        {
+          "time": 1794,
+          "info": "Napoleon gebruikt het gebouw om zijn soldaten onder te brengen."
+        },
+        {
+          "time": 1811,
+          "info": "Onder cotrole van Napoleon worden twee van de drie vlieten dat in het noorden van de stad liggen samengevoegd tot een groot dok dat toen nog het 'Petit Bassin' heet."
+        },
+        {
+          "time": 1813,
+          "info": "Een tweede dok, het Willemdok wordt uitgegraven zodat nu het Oostershuis alleen nog aan de zuidrand verbonden is met land."
+        },
+        {
+          "time": 1880,
+          "info": "De stad wordt eigenaar van het Oostershuis en gebruikt het als graanmagazijn."
+        },
+        {
+          "time": 1893,
+          "info": "Het Oostershuis gaat in vlammen op, minder sierlijke magazijnen worden opgetrokken."
+        },
+        {
+          "time": 1999,
+          "info": "Er wordt een wedstrijd uitgeschreven voor een nieuw museum op de plaats waar het Oostershuis stond."
+        },
+        {
+          "time": 2010,
+          "info": "Het ontwerp van Reutelings Riedijk Architecten wordt opgeleverd en het MAS wordt geopend."
+        }
+      ]
+    },
+    {
+      "title": "O.L.V Kathedraal",
+      "type": "castle",
+      "img": {
+        "url": "https://brabo.smugmug.com/Brabo/archief/G/groenplaats7/1242106605_9pLgp-L-1.jpg",
+        "alt": "Een foto van het standbeeld van Rubens met de kathedraal in de achtergrond."
+      },
+      "desc": "De kathedraal van Antwerpen is het hoogste gebouw in Antwerpen, en is de hoofdkerk van het bisdom Antwerpen.",
+      "timeline": [
+        {
+          "time": 1352,
+          "info": "De bouw van de kathedraal begint."
+        },
+        {
+          "time": 1415,
+          "info": "Het koor van de kerk wordt voltooid."
+        },
+        {
+          "time": 1430,
+          "info": "Er wordt beslist om de kerk breder te maken, waardoor de kerk een zevenbeukige kerk wordt."
+        },
+        {
+          "time": 1469,
+          "info": "Het schip van de romaanse kerk dat er voorheen stond wordt afgebroken."
+        },
+        {
+          "time": 1487,
+          "info": "Het schip van de nieuwe kerk wordt voltooid."
+        },
+        {
+          "time": 1495,
+          "info": "Het dwarsschip van de kerk wordt voltooid."
+        },
+        {
+          "time": 1518,
+          "info": "Het kruis van de noordelijke toren van de kathedraal wordt ingehuldigd, waarmee de bouw ervan afgerond is."
+        },
+
+        {
+          "time": 1521,
+          "info": "Er worden plannen opgetekend om de kerk nog meer uit te breiden, deel daarvan is om de zuidelijke (kleinere) toren af te breken. Deze plannen worden niet waar gemaakt, maar verklaren wel waarom de zuidelijke toren nooit is afgewerkt. In twee driehoekige huizenblokken is het originele plan van de kerk nog te zien (Lijnwaadmarkt, Melkmarkt, Sint-Pieterstraat)."
+        },
+        {
+          "time": 1533,
+          "info": "Een brand slaat uit in de kathedraal, het dak lijd de grootste schade."
+        },
+        {
+          "time": 1534,
+          "info": "De vieringtoren, in het midden van de kerk wordt gebouwd uit hout."
+        },
+
+        {
+          "time": 1559,
+          "info": "De kerk krijgt de status van kathedraal."
+        },
+        {
+          "time": 1803,
+          "info": "De kathedraal verliest de status van kathedraal."
+        },
+        {
+          "time": 1961,
+          "info": "De kerk krijgt de status van kathedraal terug."
+        }
+      ]
+    },
+    {
+      "title": "Sterckxhof",
+      "type": "castle",
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Sterckshof_luchtfoto.jpg/532px-Sterckshof_luchtfoto.jpg",
+        "alt": "Een luchtfoto van het Sterckxhof."
+      },
+      "desc": "Het Sterckxhof ligt in het rivierenhof, het kasteel zelf is maar van uit 1933. Maar er is al een beschermende gracht met een hoeve of een eerder kasteel in renaissancestijl sinds de 13e eeuw.",
+      "timeline": [
+        {
+          "time": 1200,
+          "info": "Ergens deze eeuw verschijnt er een hoeve genaamd 'Hooftvunder' met een omringende gracht."
+        },
+        {
+          "time": 1524,
+          "info": "Het eigendom wordt gekocht door Gerard Sterck, waar het kasteel nog steeds naar vernoemd is. Hij verbouwt de hoeve tot kasteel in renaissancestijl."
+        },
+        {
+          "time": 1693,
+          "info": "Na de oorlogen van de 16e en 17e eeuw te overleven lijd het kasteel aan verval door ruzies tussen erfgenamen, de Jezuietenorde krijgt het in handen."
+        },
+        {
+          "time": 1740,
+          "info": "Tijdens de Oostenrijkse successie oorlog geraakt het kasteel nog verder in verval waardoor er alleen nog een gelijkvloers bestaat en een enkele kasteeltoren."
+        },
+        {
+          "time": 1778,
+          "info": "De bankier Jan Baptist Cogels koopt het domein, hij is ook eigenaar van het landgoed Ter Rivieren en voegt de twee samen tot het huidige rivierenhof."
+        },
+        {
+          "time": 1921,
+          "info": "De provincie koopt het volledige domein en laat architect Jaak Alfons Van der Gucht op basis van oude schetsen en opgravingen een nieuw kasteel bouwen."
+        },
+        {
+          "time": 1933,
+          "info": "Het nieuwe en huidige Sterckxhof wordt voltooid."
+        }
+      ]
+    },
+    {
+      "title": "De citadel",
+      "type": "castle",
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Zitadelle_von_Antwerpen_1572.jpg",
+        "alt": "De citadel op een oude stadskaart."
+      },
+      "desc": "De Citadel of het Zuidkasteel is een versterking opgericht door de Hertog Van Alva om mogelijke opstanden uit Antwerpen te voorkomen.",
+      "timeline": [
+        {
+          "time": 1567,
+          "info": "Margareta van Parma vertrekt na de beeldenstorm uit de Nederlanden en de Hertog van Alva neemt haar plaats in en laat onmiddelijk een dwanburcht (de citadel) bouwen."
+        },
+        {
+          "time": 1574,
+          "info": "De hertog van Alva vertrekt, zijn standbeeld in het centrum van de citadel wordt afgebroken."
+        },
+        {
+          "time": 1576,
+          "info": "Tijdens de spaanse furie gebruikt spaanse commandant Sancho d'Avila de citadel als uitvalsbasis."
+        },
+        {
+          "time": 1577,
+          "info": "Als gevolg van de Pacificatie van Gent moeten alle Spaanse troepen de Nederlanden verlaten, spaanse troepen verlaten de Citadel & de overblijvende Waalse en Duitse troepen worden verjaagd door gewapende Antwerpse burgers uit vrees voor een nieuwe furie door muitende soldaten. De ondertussen gehate citadel wordt door burgers gesloopt tot enkel het deel dat mee in de stadsomwalling functioneerde overbleef."
+        },
+        {
+          "time": 1582,
+          "info": "Er vindt een moordpoging plaats in de citadel, Willem de zwijger overleeft een kogel door het hoofd van Jean Jaureguy."
+        },
+        {
+          "time": 1588,
+          "info": "Na de val van Antwerpen aan de Spaanse Alexander Farnese (de nieuwe landvoogd), wordt de citadel in zijn oorsponkelijke vorm terug opgebouwd."
+        },
+        {
+          "time": 1830,
+          "info": "Tijdens de Belgische revolutie verdedigd David Hendrik Chassé de citadel dat onder zijn orders de St.- Andries wijk bestookt met kanonnen."
+        },
+        {
+          "time": 1832,
+          "info": "Generaal Chassé geeft zich over aan de Franse troepen na 25 dagen beleg. De afbraak van de citadel word het zelfde jaar ingezet."
+        },
+        {
+          "time": 1881,
+          "info": "De citadel is pas nu volledig afgebroken."
+        }
+      ]
+    },
+    {
+      "title": "Noorderkasteel",
+      "type": "castle",
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Graffiti_on_an_Old_Fort_Built_in_1859%2C_Now_Used_as_Storage_Facility_-_panoramio.jpg/532px-Graffiti_on_an_Old_Fort_Built_in_1859%2C_Now_Used_as_Storage_Facility_-_panoramio.jpg",
+        "alt": "De ingang van het oude noorderkasteel."
+      },
+      "desc": "De Citadel of het Zuidkasteel is een versterking opgericht door de Hertog Van Alva om mogelijke opstanden uit Antwerpen te voorkomen.",
+      "timeline": [
+        {
+          "time": 1812,
+          "info": "Napoleon laat Fort Ferdinand bouwen ter verdediging van de Scheldebocht."
+        },
+        {
+          "time": 1862,
+          "info": "Het Noordkasteel word gebouwd op de plek waar Fort Ferdinand vroeger stond als onderdeel van de fortengordel rond Antwerpen."
+        },
+        {
+          "time": 1881,
+          "info": "Om plaats te maken voor uitbreiding van het Amerikadok en het Afrikadok wordt een groot deel van het Noordkasteel afgebroken."
+        },
+        {
+          "time": 1919,
+          "info": "Het Noordkasteel wordt afgeschreven als militair gebied."
+        }
+      ]
+    },
+    {
+      "title": "Bourlaschouwburg",
+      "alt": ["Tappisierspand"],
+      "type": "column",
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Antwerp_Bourla_Theatre_01.jpg/250px-Antwerp_Bourla_Theatre_01.jpg",
+        "alt": "De bourlaschouwburg langs voor gefotografeerd."
+      },
+      "desc": "Dit neoclassicistische gebouw is ontworpen door Pierre Bruno Bourla, en werd gebouwd voor een Frans theathergezelschap waardoor het origineel Théâtre Royal Français heette.",
+      "timeline": [
+        {
+          "time": 1550,
+          "info": "Op initiatief van Karel V wordt er een Tapissierspand rechtgetrokken op deze locatie, een plek waar wandtapijten worden getoond en verkocht."
+        },
+        {
+          "time": 1555,
+          "info": "5 jaar later volgt de ingebruikname van het pand."
+        },
+        {
+          "time": 1576,
+          "info": "Tijdens de spaanse furie wordt het Tapissierspand geplunderd."
+        },
+        {
+          "time": 1584,
+          "info": "Door het beleg van Antwerpen word de handel naar Antwerpen 2 jaar stilgelegd o.a. door de Scheldeblokkade, het pand verliest zoals de stad zijn centrale status in Europa."
+        },
+        {
+          "time": 1650,
+          "info": "Het Tapissierspand sluit voor goed."
+        },
+        {
+          "time": 1709,
+          "info": "Het pand word gebruikt als een gesloten theaterzaal op vraag van stedelijke liefdadigheidsinstellingen."
+        },
+        {
+          "time": 1746,
+          "info": "Na de stadsbrand herbouwen ze het pand tot een meer geschikte spektakelruimte."
+        },
+        {
+          "time": 1829,
+          "info": "Het theaterhuis moet plaats maken voor het derde en uiteindelijke Théâtre Royal Français of Bourlaschouwburg."
+        },
+        {
+          "time": 1830,
+          "info": "Door de Belgische revolutie stopt de constructie van het nieuwe theater tijdelijk."
+        },
+        {
+          "time": 1834,
+          "info": "De Bourlaschouwburg zoals ze er nu staat wordt afgemaakt."
+        }
+      ]
+    },
+    {
+      "title": "Rubenshuis",
+      "type": "column",
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Anvers_Maison_Rubens.JPG/960px-Anvers_Maison_Rubens.JPG",
+        "alt": "De binnenplaats van het Rubenshuis."
+      },
+      "desc": "Dit was de residentie van Peter Paul Rubens tussen 1910 tot zijn dood in 1940",
+      "timeline": [
+        {
+          "time": 1590,
+          "info": "Maria Pypelinckx keert met haar twee zonen terug naar Antwerpen na de dood van haar man (voormalig advocaat en schepenambt in Antwerpen) dat de Nederlanden niet binnenmocht na een buitenechtelijke relatie met Anna van Saksen. Ze woonden in de Kloosterstraat."
+        },
+        {
+          "time": 1600,
+          "info": "Peter Paul Rubens vertrekt naar Venetië met zijn leerling om in dienst te treden bij de Hertog van Mantua."
+        },
+        {
+          "time": 1608,
+          "info": "Na jaren rond te reizen in Italië, waarbij hij talloze meesters en adel leer kennen, keert Rubens terug naar Antwerpen omdat zijn moeder op sterven zou liggen. Ze zou acht dagen voor zijn vertrek uit Rome al gestorven zijn. Rubens laat een altaar bouwen en plaatst een schilderij origineel bedoeld voor de Chiesa Nuova in Rome."
+        },
+        {
+          "time": 1609,
+          "info": "Rubens wordt benoemd als hofschilder van Aartshertogen Albrecht van Oostenrijk en Isabella van Spanje. Hij trouwt in dit jaar met Isabella Brant. Hij trekt in bij zijn vrouw en haar vader in de Kloosterstraat."
+        },
+        {
+          "time": 1611,
+          "info": "Rubens koopt een stuk grond en maakte zelf de plannen voor het verbouwen van het huis dat toen nog aan de herentalse vaart stond, nu de Wapper."
+        },
+        {
+          "time": 1616,
+          "info": "Rubens en zijn vrouw trekken in in hun nieuwe woonst."
+        },
+        {
+          "time": 1620,
+          "info": "Zijn grootste opdracht tot nu toe, Rubens moet 39 schilderijen vervaardigen die in de St.- Carrolus Borromeus kerk zouden hangen, Rubens was bevriend met de orde en ook lid van de vereniging Broederschap der Gehuwde Mannen."
+        },
+        {
+          "time": 1621,
+          "info": "Als raadslid van een van zijn klanten, Ambrogio Spinola wordt Rubens betrokken bij geheime staatszaken. Dit met als doel om vrede tussen de recent vrijgebroken nederlanden en de Spaanse kroon te smeden."
+        },
+        {
+          "time": 1624,
+          "info": "Rubens wordt door Philips IV in de adelstand verheven."
+        },
+        {
+          "time": 1626,
+          "info": "Isabella Brant sterft aan de pest, een uitbraak in Antwerpen had hen de zes maanden ervoor doen verblijven in een herberg in Laken. Het verdriet doet hem diplomatieke opdrachten aannemen dat Rubens naar Engeland en Italië zouden sturen."
+        },
+        {
+          "time": 1627,
+          "info": "Na de dood van Isabella verkoopt Rubens een groot deel van zijn schilderijen, met het geld koopt hij zeven huizen rond zijn eerste huis aan de Wapper. Eén werd als koetshuis ingericht, twee anderen verhuurd en hun tuinen werden samengevoegd."
+        },
+        {
+          "time": 1628,
+          "info": "Rubens reist naar Madrid om als diplomaat en schilder in dienst bij koning Philips IV."
+        },
+        {
+          "time": 1630,
+          "info": "Een 53-jarige Rubens hertrouwt met zijn 16-jarige nicht, ze hebben 5 kinderen in totaal."
+        },
+        {
+          "time": 1640,
+          "info": "Lijdend aan jicht stierf Rubens in het Rubenshuis. In de St.- Jacobskerk ligt zijn graf."
+        }
+      ]
+    },
+    {
+      "title": "St.- Anna tunnel",
+      "alt": ["St.- Jansvliet"],
+      "type": "ship",
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Roltrap_Sint-Annatunnel.jpg/250px-Roltrap_Sint-Annatunnel.jpg",
+        "alt": "De roltrappen in de St.- Anna tunnel."
+      },
+      "desc": "De eerste tunnel om een permanente voetgangers verbinding tussen de oevers te maken in Antwerpen.",
+      "timeline": [
+        {
+          "time": 1931,
+          "info": "Na veel discusie over bruggen dat zeevaart zouden belemmeren, begint de bouw van een tunnel. De bouw van de St.- Anna tunnel is samen uitgevoerd met die van de Waaslandtunnel. De bouw van de inkom op de rechteroever zorgt ervoor dat de Waterpoort, die daar toen stond is verhuisd naar de Zuiderdokken."
+        },
+        {
+          "time": 1933,
+          "info": "De tunnel wordt voltooid."
+        },
+        {
+          "time": 1944,
+          "info": "Het terugtrekkende Duitse leger blaast het toegangsgebouw op Linkeroever op, het herstel zou jaren duren."
+        }
+      ]
+    },
+    {
+      "title": "Kennedytunnel",
+      "type": "ship",
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kennedytunnel_aerial.jpg/960px-Kennedytunnel_aerial.jpg",
+        "alt": "De Ingang van de Kennedytunnel op rechteroever."
+      },
+      "desc": "De eerste tunnel om een permanente treinverbinding tussen de oevers te maken in Antwerpen.",
+      "timeline": [
+        {
+          "time": 1945,
+          "info": "Plannen voor de nieuwe tunnel worden opgetekend."
+        },
+        {
+          "time": 1963,
+          "info": "Na een studie beslist men om een tunnel te kiezen naar advies van technici."
+        },
+
+        {
+          "time": 1964,
+          "info": "De bouw van de tunnel vangt aan, met een combinatie van graafwerken langs de oevers en in caissons waarin werlieden naar de scheldebodem worden gezonken wordt het traject van de tunnel uitgegraven."
+        },
+        {
+          "time": 1969,
+          "info": "De tunnel opent."
+        }
+      ]
+    },
+    {
+      "title": "Waeslandtunnel",
+      "alt": ["Brouwersvliet", "Eerste vliet"],
+      "type": "ship",
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Linkeroever_Waaslandtunnel_ingang.jpg/960px-Linkeroever_Waaslandtunnel_ingang.jpg",
+        "alt": "De ingang van de Waaslandtunnel op Linkeroever in de jaren 30."
+      },
+      "desc": "De eerste tunnel om een permanente auto verbinding tussen de oevers te maken in Antwerpen.",
+      "timeline": [
+        {
+          "time": 1931,
+          "info": "Na veel discusie over bruggen dat zeevaart zouden belemmeren, begint de bouw van een tunnel. De bouw van de Waaslandtunnel is samen uitgevoerd met die van de St.- Annatunnel."
+        },
+        {
+          "time": 1933,
+          "info": "De tunnel wordt voltooid. Er moet een Tol worden betaald voor het gebruik ervan."
+        },
+
+        {
+          "time": 1940,
+          "info": "Het terugtrekkende Franse leger blaast de tunnels op maar de tunnels worden binnen enkele weken hersteld."
+        },
+        {
+          "time": 1944,
+          "info": "Het terugtrekkende Duitse leger blaast de tunnels op, de tunnel komt onder water te staan. Het herstel zou jaren duren."
+        }
+      ]
+    },
+    {
+      "title": "Waterpoort",
+      "type": "castle",
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Waterpoort_Antwerpen_2.jpg/960px-Waterpoort_Antwerpen_2.jpg",
+        "alt": "De Waterpoort op zijn 3e en finale locatie."
+      },
+      "desc": "Een poort origineel gebouwd op de Vlasmarkt voor koning Philips IV van Spanje.",
+      "timeline": [
+        {
+          "time": 1624,
+          "info": "De poort wordt naar een ontwerp van Hubrecht van de Eynde gebouwd op de Vlasmarkt als ereboog aan Philips IV."
+        },
+        {
+          "time": 1880,
+          "info": "Door werken aan de Scheldekaaien wordt de poort verzet naar de St.- Jans vliet."
+        },
+
+        {
+          "time": 1933,
+          "info": "Met de bouw van de St.- Anna voetgangerstunnel moet de Waterpoort nogmaals verzet worden, deze keer naar de Zuiderdokken, zo krijgt de poort de bijnaam 'de wandelende poort'."
+        }
+      ]
+    },
+    {
+      "title": "Kipdorp poort",
+      "type": "castle",
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Antwerpen_Kipdorpbrug_11-2-2018_16-38-52.jpg/800px-Antwerpen_Kipdorpbrug_11-2-2018_16-38-52.jpg",
+        "alt": "Opgravingen van de oude stadsmuur bij de Kipdorpbrug aan het Operaplein."
+      },
+      "desc": "Een poort dat onderdeel uitmaakte van de Spaanse omwalling, de poort ligt onder het huidige Operaplein en was via de Kipdorpbrug de belangrijkste toegang tot de stad.",
+      "timeline": [
+        {
+          "time": 1542,
+          "info": "Onder leiding van Karel V word er een Spaanse omwalling gebouwd om Antwerpen."
+        },
+        {
+          "time": 1552,
+          "info": "In 10 jaar tijd wordt de volledige omwalling naar het ontwerp van Donato Di Boni gebouwd, de Kipdorp poort is ontworpen door architect Gilbert van Schoonbeke."
+        },
+
+        {
+          "time": 1583,
+          "info": "Via de Kipdorppoort probeert Frans van Anjou de stad te veroveren tijdens de Franse furie."
+        },
+        {
+          "time": 1864,
+          "info": "Na eeuwen dienst moet de poort plaatsmaken voor een boulevard, de poort werd grotendeels afgebroken en de onderste verdieping verdween onder de leien."
+        }
+      ]
+    },
+    {
+      "title": "St.- Jorispoort",
+      "type": "castle",
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/De_St._Jorispoort_of_de_Keizerspoort_%28cropped%29.jpg/960px-De_St._Jorispoort_of_de_Keizerspoort_%28cropped%29.jpg",
+        "alt": "Een tekening van de St.- Jorispoort aan de gracht van de Spaanse omwalling."
+      },
+      "desc": "Een poort dat onderdeel uitmaakte van de Spaanse omwalling, de poort ligt onder het huidige Leopoldplein en werd hernoemd naar de Keizerspoort nadat Karel V tijdens een plechtigheid erdoor reed tijdens een stadsbezoek.",
+      "timeline": [
+        {
+          "time": 1542,
+          "info": "Onder leiding van Karel V word er een Spaanse omwalling gebouwd om Antwerpen."
+        },
+        {
+          "time": 1545,
+          "info": "Keizer Karel V rijdt tijdens een plechtigheid door de St.- Jorispoort die erna van naam is veranderd naar de Keizerspoort."
+        },
+        {
+          "time": 1552,
+          "info": "In 10 jaar tijd wordt de volledige omwalling naar het ontwerp van Donato Di Boni gebouwd."
+        },
+
+        {
+          "time": 1860,
+          "info": "De poort werd gesloopt."
+        }
+      ]
+    },
+    {
+      "title": "Rode poort",
+      "type": "castle",
+      "img": {
+        "url": "https://usercontent.one/wp/brouwershuis.org/wp-content/uploads/2019/08/rodepoort-1-1.jpg?media=1641677905",
+        "alt": "Een sepia foto van de Rode poort met de spoorweg op de huidige Italiëlei."
+      },
+      "desc": "Een poort dat onderdeel uitmaakte van de middeleeuwse stadsomwalling, de poort ligt aan de samenkomst van de paardenmarkt en de Italiëlei.",
+      "timeline": [
+        {
+          "time": 1313,
+          "info": "Bij de vierde stadsuitbreiding word een grote wachttoren neergezet aan de stadsomwalling, dit is de Rode poort."
+        },
+        {
+          "time": 1550,
+          "info": "Bij de bouw van de Spaanse stadsomwalling werd de originele poort niet gesloopt en een nieuwe poort werd ernaast in renaissancestijl opgetrokken."
+        },
+        {
+          "time": 1552,
+          "info": "In 10 jaar tijd wordt de volledige omwalling naar het ontwerp van Donato Di Boni gebouwd."
+        },
+
+        {
+          "time": 1818,
+          "info": "De eerste Rode poort werd gesloopt."
+        },
+        {
+          "time": 1865,
+          "info": "Ook de tweede poort werd gesloopt."
+        }
+      ]
+    },
+    {
+      "title": "Slijkpoort",
+      "type": "castle",
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/De_Slijkpoort_of_Lillopoort_buiten_de_wallen.jpg/1526px-De_Slijkpoort_of_Lillopoort_buiten_de_wallen.jpg?20180824085630",
+        "alt": "De slijkpoort waar nu een sluis ten noorden van het MAS ligt."
+      },
+      "desc": "Een poort dat onderdeel uitmaakte van de middeleeuwse stadsomwalling, de poort heeft vroeger dan anderen plaats moeten maken door de uitbreiding van de haven.",
+      "timeline": [
+        {
+          "time": 1313,
+          "info": "Bij de vierde stadsuitbreiding word een grote wachttoren neergezet aan de stadsomwalling, dit is de Rode poort."
+        },
+        {
+          "time": 1550,
+          "info": "Bij de bouw van de Spaanse stadsomwalling werd de originele poort niet gesloopt en een nieuwe poort werd ernaast in renaissancestijl opgetrokken."
+        },
+        {
+          "time": 1552,
+          "info": "In 10 jaar tijd wordt de volledige omwalling naar het ontwerp van Donato Di Boni gebouwd."
+        },
+
+        {
+          "time": 1818,
+          "info": "De eerste Rode poort werd gesloopt."
+        },
+        {
+          "time": 1865,
+          "info": "Ook de tweede poort werd gesloopt."
+        }
+      ]
+    },
+    {
+      "title": "Zuiderdokken",
+      "type": "ship",
+      "img": {
+        "url": "https://dok54.be/wp-content/uploads/2021/08/0c570781aea317daa8dec6bf15e21193-e1629124070409.jpg",
+        "alt": "Een luchtfoto van de zuiderdokken toen ze nog in gebruik waren ."
+      },
+      "desc": "In de late 18e eeuw werd de haven van Antwerpen uitgebreid om meer schepen te kunnen ontvangen, het kool-, schippers- en steendok waren de drie dat in het Antwerpse Zuid werden aangelegd. Er werden vooral steenkool, stenen, zand en mosselen verscheept.",
+      "timeline": [
+        {
+          "time": 1864,
+          "info": "De Spaanse vesten worden na veel discusie gesloopt, en er komt plek vrij voor ontwikkeling waar vroeger de Citadel stond."
+        },
+        {
+          "time": 1967,
+          "info": "Doordat schepen steeds groter en groter werden, verhuisde de handel en scheepvaart steeds meer naar het noorden. Er werd beslist om de dokken te dempen en het laatste schip vaarde dit jaar uit het Zuiderdok."
+        },
+        {
+          "time": 1969,
+          "info": "Na 2 jaar zijn de dokken gedempt. De Sinksenfoor, verhuis van de Sint Walburgiskerk in de oude stad naar hier."
+        },
+        {
+          "time": 2013,
+          "info": "De bovengrondse parking werd door de stad als ongewenst gezien, en plannen voor ondergrondse parkings en recreatief gebruik van de oppervlakte werden opgetekend."
+        },
+        {
+          "time": 2015,
+          "info": "De Sinksenfoor verhuist na klachten over geluidsoverlast naar Spoor Oost."
+        },
+        {
+          "time": 2022,
+          "info": "De parken en parkings zijn grotendeels afgerond."
+        }
+      ]
+    },
+    {
+      "title": "Harmoniepark",
+      "alt": ["Galgenveld"],
+      "type": "column",
+      "img": {
+        "url": "https://nnieuws.be/sites/default/files/styles/full_image/public/images/main/harmonieantwerpen%2020230923%205.1%2BVroege%2BJazz.JPG?itok=gpIqrylt",
+        "alt": "Een sepia foto van het Harmoniepark."
+      },
+      "desc": "Het Koning Albertpark is als sinds de middeleeuwen een open ruimte, en was de grens tussen het Antwerpse buurtschap Haringrode en de heerlijkheid Berchem.",
+      "timeline": [
+        {
+          "time": 718,
+          "info": "Na de Frankische Burgeroorlog vormde dit gebied de grens tussen het buurtschap Haringrode en de heerlijkheid Berchem."
+        },
+        {
+          "time": 1227,
+          "info": "Wat toen nog een verhoging in een moerassig gebied was, werd in dit jaar genoemd als de Papenmoer. Met een nabij leprozenhuis dat Ter Zieken werd genoemd."
+        },
+        {
+          "time": 1479,
+          "info": "De stad koopt een stuk van het Papenmoer en gebruikt het als galgenveld, ook een grenspaal bekend als de Hand werd hier geïnstalleerd."
+        },
+        {
+          "time": 1703,
+          "info": "Het galgenveld werd verzet, en het veld werd verwaarloost."
+        },
+        {
+          "time": 1754,
+          "info": "Het terrein wordt opgeschoond en er worden wandeldreven aangelegd."
+        },
+        {
+          "time": 1803,
+          "info": "Het domein werd een private warande, een soort jachtdomein of lusthof."
+        },
+        {
+          "time": 1809,
+          "info": "De stad krijgt het domein terug in handen."
+        },
+        {
+          "time": 1861,
+          "info": "De warande werd opengesteld als publiek park."
+        },
+        {
+          "time": 1877,
+          "info": "Het park word heraangelegd in de stijl van een Engels park met een wachthuis en muziekkiosk."
+        }
+      ]
+    },
+    {
+      "title": "Stadspark",
+      "type": "castle",
+      "img": {
+        "url": "https://static.wixstatic.com/media/3549d9_c134655d77eb488e93e6f199bec693a9~mv2_d_1753_2629_s_2.jpg/v1/fill/w_964,h_1432,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/186%23674_afdruk%202_edited.jpg",
+        "alt": "Een gravure van het stadspark met de witte brug."
+      },
+      "desc": "Dit park werd gebouwd op de één van de bastions in de Spaanse omwalling.",
+      "timeline": [
+        {
+          "time": 1818,
+          "info": "Ter uitbreiding van de spaanse omwalling werd een brilschans aangelegd net ten noorden van de Herentalse vaart, deze grote driehoekige versterking zet de voetafdruk voor het uiteindelijke park."
+        },
+        {
+          "time": 1844,
+          "info": "In een aantal Duitse steden is de stadsomwalling omgevormd tot een publieke wandeling, in Frankrijk werden deze vaker heraangelegd tot boulevards, Antwerpen zou beide meemaken met eerst de aanleg van het wandelparcours dat tussen de stadsomwalling en de brilschans liep."
+        },
+        {
+          "time": 1864,
+          "info": "Met de aanleg van nieuwe forten als deel van het Brialmontplan, werd de omwalling gesloopt en verkaveld. De natuurwandeling verdwijnt in functie van stadsuitbreiding, maar de brilschans werd herbestemd als park."
+        },
+        {
+          "time": 1868,
+          "info": "De bastion werd afgebroken, en een ontwerp van Edouard Kielig werd na veel discusie gekozen. Het ontwerp mocht niet te veel afwijken van de toenmalige ligging van het water, maar moest wel een modern park worden."
+        }
+      ]
+    },
+    {
+      "title": "De oude stad",
+      "type": "castle",
+      "img": {
+        "url": "https://www.brabo.com/sites/default/files/2017-11/geschiedenis-brabo-1_afbeelding-013.jpg",
+        "alt": "Een foto van de heraanleg van de Scheldekaaien met het Steen in de achtergrond."
+      },
+      "desc": "Het originele Antwerpen, omringd door een.",
+      "timeline": [
+        {
+          "time": 270,
+          "info": "Er bevind zich een Gallo-romeinse nederzetting, hiervan zijn resten gevonden bij de aanleg van de Stadsparking aan het Steen."
+        },
+        {
+          "time": 600,
+          "info": "Na bekeringsexpedities van Amandus en Eligius werd een kerk gesticht gewijd aan St.- Pieter en Paulus. In opdracht van de toenmalige koning Dagobert. De kerk is waarschijnlijk verloren gegaan tijdens de vikingplunderingen, of bevindt zich onder de huidige St.- Michielskerk."
+        },
+        {
+          "time": 695,
+          "info": "De kerk werd weggeschonken aan Willibrordus ter ondersteuning van het bekeren van de Nederlanden."
+        },
+        {
+          "time": 800,
+          "info": "Nabij het Steen werden vondsten gedateerd in de 9e eeuw, die vondsten zouden een beeld schetsen van een omwalde nederzetting met een aantal graven bij de Koraalberg nabij het huidige straatje genaamd 'Grote Koraalberg'."
+        },
+        {
+          "time": 836,
+          "info": "De stad word door vikingen geplunderd en afgebrand. Vikingen Harald en Rorik krijgen met deze reeks plunderingen de Schelde onder controle voor de komende 40 jaar."
+        },
+        {
+          "time": 923,
+          "info": "Antwerpen wordt ingedeeld tot Oost-Francië, de Schelde vormde toen de grens tussen West en Oost."
+        },
+        {
+          "time": 1000,
+          "info": "Onder het gezag van Gozelo I van Lotharingen (Markgraaf van Antwerpen) en zijn broer Godfried I (Hertog) van Neder-Lotharingen werd de aarden omwalling van de oude stad versterkt tot een van steen. Daarbinnen werd ook de Walburgakapel gebouwd."
+        },
+        {
+          "time": 1104,
+          "info": "Onder keizer Hendrik IV worden de omringende huizen van Antwerpen omwald met de bouw van de burcht, die legt het traject voor de Suiker, Boter, Kaas en Minderbroedersruien. En dus ook voor de huidige straten met die namen."
+        },
+        {
+          "time": 1236,
+          "info": "Met steeds grotere vrachten op schepen is er een enorm aantal buildragers en kruiwageniers, in dit jaar is er echter voor het eerst sprake van een kraan aan de werf, ze kan tot 5 ton dragen en werkt door 2 mannen aan een rad te doen duwen."
+        },
+        {
+          "time": 1250,
+          "info": "De oorsprong van de naam Antwerpen gaat verloren en de mythe rond druon Antigoon ontstaat."
+        },
+        {
+          "time": 1300,
+          "info": "Delen van de oude stadsgracht worden gebruikt als binnenhavens zoals o.a. Sint-Jansvliet en de Holenvliet of Koolvliet."
+        },
+        {
+          "time": 1398,
+          "info": "Door de uitvinding van de donderbus werden schietgaten in torens en muren van de Burcht aangebracht."
+        },
+        {
+          "time": 1427,
+          "info": "Antwerpen wordt geteisterd door de Pest, het magistraat verkondigd. Zieken moesten rondlopen met een witte roede (een stok) en hun huizen aangeven door een strobussel uit te hangen."
+        },
+        {
+          "time": 1481,
+          "info": "De originele burcht diende niet langer als vesting, nu diende ze als gevangenis."
+        },
+        {
+          "time": 1500,
+          "info": "Antwerpen beleeft zijn gouden eeuw, de import van exotische specerijen, engelse lakens en duits staal zorgt voor een enorme drukte aan de kaaien."
+        },
+        {
+          "time": 1548,
+          "info": "Om grotere schepen te kunnen ontvangen werd er in het noorden van de stad de Nieuwstad aangelegd met 3 grote kanalen, dit en de zetel van de duitse hanze dat zich daar vestigde zorgde voor verminderde handel aan de oude burcht."
+        },
+        {
+          "time": 1561,
+          "info": "De poort dat toegang geeft tot de werf, het uistekend stuk land waar veel schepen aanlegden aan de waterkant van de burcht wordt herbouwd."
+        },
+        {
+          "time": 1877,
+          "info": "Door de enorme groei van het gemiddelde schip dat aanmeert, worden nieuwe en grotere dokken aangelegd door o.a. Napoleon, en later ook de Nederlandse kroon. Deze aanpassing van de haven leidt bevat ook de rechttrekking van de schelde, hierbij verdwijnt de oude stad, vierschaer, walburgiskerk en de werf. Enkel het steen en vleeshuis blijven overeind."
+        }
+      ]
+    },
+    {
+      "title": "Het steen",
+      "type": "castle",
+      "desc": "Het Steen is een deel van een voormalige ringwalburg, het is het oudste gebouw van Antwerpen.",
+      "img": {
+        "url": "https://www.vai.be/volumes/general/1_de-Werf-in-Antwerpen-1650.jpg?v=1705586541",
+        "alt": "Een gravure van het Steen met de oude Scheldekaaien op de voorgrond."
+      },
+      "timeline": [
+        {
+          "time": 1200,
+          "info": "Het steen wordt gebouwd als poortgebouw voor de Antwerpse burcht."
+        },
+        {
+          "time": 1303,
+          "info": "Het gebouw wordt gebruikt als gevangenis."
+        },
+        {
+          "time": 1520,
+          "info": "Het poortgebouw van de burcht werd grondig verbouwd, sindsdien was het gebouw bekend als 's Heeren Steen."
+        },
+        {
+          "time": "1823 ",
+          "info": "Het gebouw wordt gebruikt als tehuis voor invalide soldaten."
+        },
+        {
+          "time": 1827,
+          "info": "Het Steen werd van de stad aan een houtzager verkocht."
+        },
+        {
+          "time": 1828,
+          "info": "Het Steen werd teruggekocht door de stad."
+        },
+        {
+          "time": 1864,
+          "info": "Het gebouw werd omgevormd tot een oudheidkundig museum."
+        },
+        {
+          "time": 1880,
+          "info": "Door de rechttrekking van de schelde verdwijnt de rest van de binnenstad, een aantal gebouwen rondom het poortgebouw werden gehouden en als groep 'Het Steen genoemd'."
+        }
+      ]
+    },
+    {
+      "title": "Hessenhuis",
+      "type": "ship",
+      "img": {
+        "url": "http://www.pcl-eu.de/virt_ex/images/0803.jpg",
+        "alt": "Het hessenhuis, toen nog in gebruik als brandweerkazerne."
+      },
+      "desc": "Dit handelshuis werd zoals het Oostershuis gebouwd voor duitse kooplieden, deze uit Frammersbach.",
+      "timeline": [
+        {
+          "time": 1564,
+          "info": "Investeerder Anna Janssens liet het Hessenhuis bouwen."
+        },
+        {
+          "time": 1585,
+          "info": "Na de gouden eeuw van Antwerpen en de sluiting van de Schelde werd het pand voor allerhande doelen gebruikt: protestantse bidplaats, kazerne, brandweerpost, stadsmagazijn en werkplaats."
+        },
+        {
+          "time": 1975,
+          "info": "Het gebouw werd een plek voor tijdelijke tentoonstellingen."
+        },
+        {
+          "time": 1993,
+          "info": "Ludo Smits richt het ondertussen bekende cafe dat een trekpleister is geworden voor het LGBTQ+ publiek."
+        }
+      ]
+    },
+    {
+      "title": "Oudaan",
+      "type": "column",
+      "img": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Antwerpen_-_Lokale_Politie_Antwerpen.jpg/960px-Antwerpen_-_Lokale_Politie_Antwerpen.jpg",
+        "alt": "Een foto van het oud politiegebouw."
+      },
+      "desc": "De Oudaan is het voormalig politiekantoor in de gelijknamige wijk.",
+      "timeline": [
+        {
+          "time": 1958,
+          "info": "Naar een ontwerp van Renaat Braem, Jul De Roover en Maxime Wynants wordt het gebouw opgetrokken, origineel waren er plannen voor bijkomende lagere kantoorgebouwen, op die grond werd later de bijenkorf gebouwd."
+        },
+        {
+          "time": 2016,
+          "info": "Het hoofdkantoor van de politie verhuist naar het nieuwe gebouw aan Berchem station, en het gebouw werd verkocht aan een investeerder dat er waarschijnlijk een woontoren van gaat maken."
+        }
+      ]
+    },
+    {
+      "title": "Den botaniek",
+      "type": "column",
+      "img": {
+        "url": "https://photos.smugmug.com/photos/i-m9RfKJ6/1/LkHcW5QjpdwTF8RcH5g84NbJ2bdqSFc5PBqrFSj2c/O/i-m9RfKJ6.jpg",
+        "alt": "De botaniek getrokken richting het westen."
+      },
+      "desc": "Het park was eerst een gewoon park voor het zijn botanische trekken kreeg, de Orangerie aan het park is door Bourla ontworpen bekend van de schouwburg.",
+      "timeline": [
+        {
+          "time": 1530,
+          "info": "Apotheker Peter van Coudenberghe legt een plantentuin aan voor het nabije St-Elisabethziekenhuis."
+        },
+        {
+          "time": 1825,
+          "info": "Het park wordt min of meer in zijn huidige vorm aangelegd door Claude-Louis Sommé."
+        },
+        {
+          "time": 1870,
+          "info": "Er wordt een hovenierswoning gebouwd op het domein, dit gebouw staat er nog steeds."
+        },
+        {
+          "time": 1878,
+          "info": "Henri van Heurck herorganiseert de tuin en richt een natuurhistorisch museum op dat later verhuist naar de zoo."
+        },
+        {
+          "time": 1884,
+          "info": "Architect Dieltiens ontwerpt en laat de huidige Orangerie met les- en tentoonstellingslokalen bouwen."
+        }
+      ]
+    },
+    {
+      "title": "Brug over de Schelde",
+      "type": "castle",
+      "img": {
+        "url": "https://belgiumbattlefield.be/sites/default/files/styles/single_item/public/2022-04/Beleg%20van%20Antwerpen_ill%202%20klein%20Aanslag%20op%20vlotbrug%20van%20Parma-origineel.jpeg?itok=E_K94R8R",
+        "alt": "De aanslag op de schipbrug van Farnese tijdens de spaanse bezetting van Antwerpen."
+      },
+      "desc": "Bruggen over de schelde zijn een aantal keer in de geschiedenis voorgekomen, ooit aan het Steen daarvoor aan fort Lillo.",
+      "timeline": [
+        {
+          "time": 1584,
+          "info": "Tijdens de 80-jarige oorlog leggen de Spanjaarden onder leiding van de Hertog van Parma een brug aan over de schelde. Hetzelfde jaar nog zouden Antwerpenaren het proberen opblazen met twee schepen vol met buskruit, er vielen 800 slachtoffers maar de schade was in 3 dagen hersteld."
+        },
+        {
+          "time": 1585,
+          "info": "Na meerdere tevergeefse aanslagen op de brug en de forten waar de brug aan land ging bleef ze overeind. Het beleg van Antwerpen kwam tot een eind met de intrede van Parma, die enkele dagen later na een ontbijt op zijn feestelijk versierde brug het order gaf om ze terug af te breken."
+        },
+        {
+          "time": 1914,
+          "info": "Tijdens het offensief van de Duitsers werd door het geniekorps van de Belgische strijdkrachten een pontonbrug over de Schelde aangelegd, deze bevoorraadde deze brug de soldaten en was ze essentieel voor het terugtrekken van troepen en evacueren van burgers."
+        }
+      ]
+    },
+    {
+      "title": "De stadscampus",
+      "type": "column",
+      "img": {
+        "url": "http://www.vliere.com/images/stories/vanliere/hofvanliere/dsc00899.jpg",
+        "alt": "Het binnenhof van het Hof van Liere."
+      },
+      "desc": "De stadscampus in het midden van de universiteitsbuurt heeft nog maar sinds 1929 de functie die het vandaag heeft.",
+      "timeline": [
+        {
+          "time": 1516,
+          "info": "Burgemeester van Antwerpen, Arnold van Liere laat een vorstelijk gebouw rechttrekken, dit Brabants-Gotische deel is vandaag te vinden als het gebouw dat de kleine binnentuin omringd waar vroeger ."
+        },
+        {
+          "time": 1529,
+          "info": "Arnold van Liere en zijn vrouw overlijden en het domein werd geerfd door de koopmansfamilie Draecke."
+        },
+        {
+          "time": "1544 ",
+          "info": "De stad koopt het domein over van de familie Draecke."
+        },
+        {
+          "time": 1558,
+          "info": "De stad stelt het ter beschikking van een Milanese bankiersfamilie en later van de Engelse natie."
+        },
+        {
+          "time": 1607,
+          "info": "Na de Spaanse furie is de Engelse Natie vertrokken en trekken de jezuieten in die destijds op zoek waren naar een nieuw gebouw omdat hun scholen overvol begonnen te lopen. Het gebouw werd omgezet naar een kostschool."
+        },
+        {
+          "time": 1777,
+          "info": "De jezuietenorde is een aantal jaar geleden opgehoffen en het gebouw werd in gebruik genomen door de koninklijke militaire academie ."
+        },
+        {
+          "time": 1783,
+          "info": "Keizerin Maria Theresia vestigt ook een militaire academie in het prinsenhof."
+        },
+        {
+          "time": 1783,
+          "info": "Keizerin Maria Theresia vestigt ook een militaire academie in het prinsenhof."
+        },
+        {
+          "time": 1794,
+          "info": "Tijdens de Franse bezetting van Antwerpen werd het gebouw gebruikt als militair hospitaal."
+        },
+        {
+          "time": 1929,
+          "info": "De St.- Ignatius hogeschool, een deel van de eerder ontbonden jezuietenorde heeft meer plaats nodig en kiest om het prinsenhof langs binnen grondig te renoveren en te gebruiken."
+        },
+        {
+          "time": 1988,
+          "info": "De Universitaire faculteiten van St.- Ignatius koopt het prinsenhof officieel over en renoveert de vleugels rond het binnenplein."
+        }
+      ]
+    },
+    {
+      "title": "St.- Pietersvliet",
+      "type": "ship",
+      "img": {
+        "url": "https://brabo.smugmug.com/Brabo/archief/S/sint-pietersvliet-1873/1242126392_CRy8f-L-1.jpg",
+        "alt": "De Sint Pietersvliet nog ongedempt."
+      },
+      "desc": "De Sint Pietersvliet was een kanaaltje dat een schuilplaats bood voor kleine schepen in de Schelde dat door getijden beïnvloed wordt. Hier ligt vandaag een tramlus.",
+      "timeline": [
+        {
+          "time": 1250,
+          "info": "De tweede stadsuitbreiding en het graven van de Koeikensgracht doet de latere Sint Pietersvliet ontstaan."
+        },
+        {
+          "time": 1884,
+          "info": "De vlieten worden gedempt en de vrijgemaakte grond werd ontwikkeld."
+        }
+      ]
+    },
+    {
+      "title": "De 3 Noordelijke vlieten",
+      "alt": [
+        "Bonapartedok",
+        "Willemdok",
+        "Middelvliet",
+        "Timmervliet",
+        "Graanvliet",
+        "Koolvliet",
+        "Oostersevliet"
+      ],
+      "type": "ship",
+      "img": {
+        "url": "https://photos.smugmug.com/photos/i-8sV2s59/1/NZqCzmMSvJ9ZkmVLftX7tC35Z8KNCKHRJVk8jjqDZ/O/i-8sV2s59.jpg",
+        "alt": "De ongedempte Brouwersvliet, waar later de Waaslandtunnel in zou worden gegraven."
+      },
+      "desc": "De eerste uitbreiding van de haven naast de vlieten dat alleen voor de kleinste bootjes geschikt waren, deze vlieten werden onder ",
+      "timeline": [
+        {
+          "time": 1400,
+          "info": "De toen nieuwe noordelijke gracht van de stad is bevaarbaar, maar niet bedoeld voor handel."
+        },
+        {
+          "time": 1548,
+          "info": "Als deel van het 'Nieuwstad' plan van Gilbert van Schoonbeke is deze eerste gracht uitgegraven tot de brouwersvliet. Daarbij kwam ook de net iets noorderlijker gelegen Middelvliet die specifiek ontworpen was om de grootste schepen van de tijd te ontvangen. De derde vliet, de timmervliet was voor kleindere schepen ontworpen die dan grotere schepen in de andere vlieten bevoorraadden."
+        },
+        {
+          "time": 1560,
+          "info": "Het duitse handelsverbond bekend als de Hanze verhuisden hun hoofdzetel van Brugge naar Antwerpen en lieten tussen de Middel- en Timmersvliet het Oostershuis optrekken."
+        },
+        {
+          "time": 1803,
+          "info": "Napoleon zoekt in Antwerpen oorlogsschepen te laten bouwen en breidt de haven uit, de Middel- en Timmersvliet worden samengevoegd tot het Bonapartedok dat dicht aan de scheldeoever ligt, en later het Willemdok dat langs het Oostershuis in de zelfde lijn ligt als de vlieten ervoor."
+        },
+        {
+          "time": 1931,
+          "info": "Na de revolutie werden plannen opgetekend voor de Waaslandtunnel of de Konijnenpijp, de ingang hiervan werd gegraven in de oude Brouwersvliet."
+        }
+      ]
+    },
+    {
+      "title": "Justitiepaleis",
+      "alt": ["Zuidstatie"],
+      "type": "train",
+      "img": {
+        "url": "https://brabo.smugmug.com/Brabo/archief/Z/zuidstation3/1242133689_wj6Ym-L-1.jpg",
+        "alt": "Het zuidstation met de achterliggende goederensporen."
+      },
+      "desc": "Nog voor de sloop van de citadel was er handelsactiviteit op de kaaien aan het Zuid dat in de vroege jaren nog met een stoomtrein werd bediend. Later is hier het Justitiepaleis, Nieuw Zuid en de ring op gebouwd.",
+      "timeline": [
+        {
+          "time": 1878,
+          "info": "Het eerste treinstation met de naam Antwerpen Zuid verschijnt, dit station liep tot aan de nieuwekaai langs de Brusselstraat."
+        },
+        {
+          "time": 1882,
+          "info": "De sporen werden verbonden met de sporen aan de Scheldekaaien."
+        },
+        {
+          "time": 1894,
+          "info": "Voor de wereldtentoonstelling werd een nieuwe poort aangelegd in de Spaanse omwalling aan het zuiden van de stad."
+        },
+        {
+          "time": 1903,
+          "info": "Het oude station werd vervangen door het Zuidstatie, gelegen op de zuiderplaats, nu de bolivarplaats met het grote origineel in twee gesplitste plein."
+        },
+        {
+          "time": 1965,
+          "info": "Het station aan de kolonel silvertoplaan werd gebouwd en verving het stationsgebouw dat moest wijken voor de bouw van de Kennedytunnel."
+        },
+        {
+          "time": 2006,
+          "info": "Naar een ontwerp van Richard Rogers werd het Vlinderpaleis opgetrokken op de plaats waar vroeger het station stond, en de rechters dat vroeger op de Britselei zaten trokken in"
+        }
+      ]
+    },
+    {
+      "title": "Park spoor noord",
+      "type": "train",
+      "img": {
+        "url": "https://photos.smugmug.com/photos/i-K42HmTN/1/Lxp9xcBnWDZ9xHwBc3t53ck2GPG2F4TQmGmqz4297/O/i-K42HmTN.jpg",
+        "alt": "Park Spoor Noord met in de achtergrond de dokken."
+      },
+      "desc": "Een voormalige treinstalplaats dat er zo lang was dat er weerstand kwam toen ze met een park vervangen werd.",
+      "timeline": [
+        {
+          "time": 1592,
+          "info": "Kasteelvoogd Pereyra laat een fort bouwen ten noorden van de Spaanse omwalling, op dit hoger gelegen stuk land vestigde al snel volk tegen het fort."
+        },
+        {
+          "time": 1618,
+          "info": "Fort Pereyra werd verplaatst en vergroot. Op de plek waar het stond werden pesthuizen gebouwd."
+        },
+        {
+          "time": 1873,
+          "info": "Met de opkomst van de trein werd het domein volledig met de grond gelijk gemaakt en werd er Spoor Noord van gemaakt een belangrijke halte voor reparaties, opleidingen, rangeren etc."
+        },
+        {
+          "time": 2001,
+          "info": "De NMBS zet zijn activiteiten stop op het domein en verhuist naar het verder noordelijk gelegen Antwerpen Noord. De grond werd gesaneerd en herontworpen als park, om de kosten te dekken werd het stuk tegen de Noorderplaats ontwikkeld tot hoogbouw."
+        }
+      ]
+    }
+  ]
+}
