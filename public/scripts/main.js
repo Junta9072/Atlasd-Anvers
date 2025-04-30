@@ -105,7 +105,7 @@ function fetchMarkers() {
 let bgJson;
 
 function fetchBgJson() {
-  return fetch("./imgJson/bgImg.json")
+  return fetch("/imgJson/bgImg.json")
     .then((response) => {
       if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
@@ -143,7 +143,7 @@ function fetchJson(path) {
 
 function loadAllMapJson() {
   mapYears.forEach((item, i) => {
-    fetchJson("./imgJson/" + item + ".json").then((data) => {
+    fetchJson("/imgJson/" + item + ".json").then((data) => {
       jsonAtlas[i] = data;
     });
   });
@@ -162,39 +162,62 @@ async function loadBgImgJson() {
 
       // Use p5.js loadImage
       let loadedImg = loadImage(path, initialLoader, handleImageLoadFailure);
-
+      console.log(`Loaded image` + i);
       bgImg.push(loadedImg);
     }
-
-    console.log(`Loaded ${bgImg.length} images`);
   } catch (error) {
     console.error("Error in loadBgImgJson:", error);
   }
 }
-
+// debugger;
 function preload() {
-  font = loadFont("../../public/Aktura-Regular.otf");
+  font = loadFont(
+    "/Aktura-Regular.otf",
+    () => console.log("Font loaded successfully"),
+    (err) => console.error("Failed to load font", err)
+  );
 
-  // for (let i = 0; i < 160; i++) {
-  //   let loadedImg = loadImage("../../img/bgmap/bgmap" + i + ".png");
-  //   bgImg.push(loadedImg);
-  // }
-  // fetchBgJson();
+  moveIcon = loadImage(
+    "/img/icon/moveIcon.png",
+    () => console.log("move loaded successfully"),
+    (err) => console.error("Failed to load move", err)
+  );
+  arrowLeftIcon = loadImage(
+    "/img/icon/arrowLeftIcon.png",
+    () => console.log("Font loaded successfully"),
+    (err) => console.error("Failed to load arrowL", err)
+  );
+  arrowRightIcon = loadImage(
+    "/img/icon/arrowRightIcon.png",
+    () => console.log("Font loaded successfully"),
+    (err) => console.error("Failed to load arrowR", err)
+  );
+  closeIcon = loadImage(
+    "/img/icon/closeIcon.png",
+    () => console.log("Font loaded successfully"),
+    (err) => console.error("Failed to load close", err)
+  );
 
-  loadBgImgJson();
-  loadAllMapJson();
-
-  moveIcon = loadImage("../../img/icon/moveIcon.png");
-  arrowLeftIcon = loadImage("../../img/icon/arrowLeftIcon.png");
-  arrowRightIcon = loadImage("../../img/icon/arrowRightIcon.png");
-  closeIcon = loadImage("../../img/icon/closeIcon.png");
-
-  castleFlag = loadImage("../../img/icon/castleFlag.png");
-  shipFlag = loadImage("../../img/icon/shipFlag.png");
-  trainFlag = loadImage("../../img/icon/trainFlag.png");
-  columnFlag = loadImage("../../img/icon/columnFlag.png");
-
-  fetchMarkers();
+  castleFlag = loadImage(
+    "/img/icon/castleFlag.PNG",
+    () => console.log("Font loaded successfully"),
+    (err) => console.error("Failed to load castle", err)
+  );
+  shipFlag = loadImage(
+    "/img/icon/shipFlag.PNG",
+    () => console.log("Font loaded successfully"),
+    (err) => console.error("Failed to load ship", err)
+  );
+  trainFlag = loadImage(
+    "/img/icon/trainFlag.PNG",
+    () => console.log("Font loaded successfully"),
+    (err) => console.error("Failed to load train", err)
+  );
+  columnFlag = loadImage(
+    "/img/icon/columnFlag.PNG",
+    () => console.log("Font loaded successfully"),
+    (err) => console.error("Failed to load column", err)
+  );
 }
 
 function screenToWorldCoords(x, y) {
@@ -707,11 +730,32 @@ function getScaledOrigin(center, currentScale, newScale) {
   };
 }
 
+window.addEventListener(
+  "error",
+  function (e) {
+    if (e.target.tagName === "IMG") {
+      console.error("Image failed to load:", e.target.src);
+      console.error("Stack trace:", new Error().stack);
+    }
+  },
+  true
+);
+
 function setup() {
   let cnv = createCanvas(windowWidth, windowHeight);
   cnv.mouseWheel(handleZoom);
   textFont(font);
   // textSize(36);
+
+  // for (let i = 0; i < 160; i++) {
+  //   let loadedImg = loadImage("../../img/bgmap/bgmap" + i + ".png");
+  //   bgImg.push(loadedImg);
+  // }
+  // fetchBgJson();
+
+  loadBgImgJson();
+  loadAllMapJson();
+  fetchMarkers();
 }
 
 function markerSwitch(type) {

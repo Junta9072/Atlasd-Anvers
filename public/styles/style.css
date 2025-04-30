@@ -4,26 +4,26 @@ html {
 
 @font-face {
   font-family: aktura;
-  src: url("../public/Aktura-Regular.otf");
+  src: url("/Aktura-Regular.otf") format("otf");
 }
 
 @font-face {
   font-family: editorial;
-  src: url("../public/PPEditorialNew-Italic.otf");
+  src: url("/PPEditorialNew-Italic.otf") format("otf");
   font-weight: 500;
   font-style: italic;
 }
 
 @font-face {
   font-family: editorial;
-  src: url("../public/PPEditorialNew-Regular.otf");
+  src: url("/PPEditorialNew-Regular.otf") format("otf");
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: editorial;
-  src: url("../public/PPEditorialNew-Ultralight.otf");
+  src: url("/PPEditorialNew-Ultralight.otf") format("otf");
   font-weight: 300;
   font-style: normal;
 }
@@ -42,7 +42,7 @@ html {
 .titleBanner {
   width: 50%;
   aspect-ratio: 4/1;
-  background-image: url("../img/ui/Banner.svg");
+  background-image: url("/img/ui/Banner.svg");
   background-repeat: no-repeat;
   position: relative;
   pointer-events: all;
@@ -107,7 +107,7 @@ html {
   left: 1%;
   bottom: 0px;
 
-  background-image: url("../img/ui/timeline_top_thin.svg");
+  background-image: url("/img/ui/timeline_top_thin.svg");
   width: 98%;
   aspect-ratio: 9.2/1;
   background-repeat: no-repeat;
@@ -121,7 +121,7 @@ html {
   position: absolute;
   bottom: 4vw;
 
-  background-image: url("../img/ui/1x1.svg");
+  background-image: url("/img/ui/1x1.svg");
   width: 25vw;
 
   aspect-ratio: 1/1;
@@ -209,23 +209,23 @@ html {
 }
 
 .timeline__event--church {
-  background-image: url("../img/icon/event_church.svg");
+  background-image: url("/img/icon/event_church.svg");
 }
 
 .timeline__event--mil {
-  background-image: url("../img/icon/event_mil.svg");
+  background-image: url("/img/icon/event_mil.svg");
 }
 
 .timeline__event--econ {
-  background-image: url("../img/icon/event_econ.svg");
+  background-image: url("/img/icon/event_econ.svg");
 }
 
 .timeline__event--culture {
-  background-image: url("../img/icon/event_culture.svg");
+  background-image: url("/img/icon/event_culture.svg");
 }
 
 .timeline__event--pol {
-  background-image: url("../img/icon/event_pol.svg");
+  background-image: url("/img/icon/event_pol.svg");
 }
 
 .timeline__event--faded {
@@ -367,7 +367,7 @@ html {
 
   transition: 0.25s ease-out;
   padding: 6vw;
-  background-image: url("../img/ui/1x1.svg");
+  background-image: url("/img/ui/1x1.svg");
   background-position: center;
   background-repeat: no-repeat;
 

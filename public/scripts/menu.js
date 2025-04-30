@@ -38,7 +38,7 @@ document.querySelector(".sources__close").addEventListener("click", () => {
 });
 
 function fetchSources() {
-  fetch("./sources.json")
+  fetch("/sources.json")
     .then((response) => {
       if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
