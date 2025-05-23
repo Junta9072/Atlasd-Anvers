@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-6ef41c1d-77c9-447d-a31b-c6ad9c916415" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 72">
+  <defs>
+    <style>
+      .uuid-21257aa9-d8f0-4fd7-bf7d-a32f061e58dc {
+        fill: #fff;
+      }
+
+      .uuid-a7f25f6a-84ca-4db2-b4d9-0fd6c5358fab {
+        fill: #ff203e;
+      }
+    </style>
+  </defs>
+  <g id="uuid-b101c349-e0b9-4a58-b399-89a69a531206" data-name="hand">
+    <g>
+      <polygon class="uuid-a7f25f6a-84ca-4db2-b4d9-0fd6c5358fab" points="0 0 0 54 27 72 54 54 54 0 0 0"/>
+      <polygon class="uuid-21257aa9-d8f0-4fd7-bf7d-a32f061e58dc" points="45 14 45 41 9 41 9 14 18 23 27 14 36 23 45 14"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-c5e6d86b-8ee8-4658-922f-66ffb64c262b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 72">
+  <defs>
+    <style>
+      .uuid-4fd8355a-cfdd-413e-9f4c-9b5d810bb1a6 {
+        fill: #fff;
+      }
+
+      .uuid-dd4b9b43-c65e-49ce-8eac-805e6d7bde8d {
+        fill: #ff203e;
+      }
+    </style>
+  </defs>
+  <g id="uuid-44acd5e7-2fed-46ae-8625-ca37577dfa84" data-name="hand">
+    <g>
+      <polygon class="uuid-dd4b9b43-c65e-49ce-8eac-805e6d7bde8d" points="0 0 0 54 27 72 54 54 54 0 0 0"/>
+      <g>
+        <circle class="uuid-4fd8355a-cfdd-413e-9f4c-9b5d810bb1a6" cx="27" cy="27" r="15"/>
+        <path class="uuid-dd4b9b43-c65e-49ce-8eac-805e6d7bde8d" d="m27,15c6.62,0,12,5.38,12,12s-5.38,12-12,12-12-5.38-12-12,5.38-12,12-12m0-6c-9.94,0-18,8.06-18,18s8.06,18,18,18,18-8.06,18-18-8.06-18-18-18h0Z"/>
+        <path class="uuid-4fd8355a-cfdd-413e-9f4c-9b5d810bb1a6" d="m27,12c8.27,0,15,6.73,15,15s-6.73,15-15,15-15-6.73-15-15,6.73-15,15-15m0-3c-9.94,0-18,8.06-18,18s8.06,18,18,18,18-8.06,18-18-8.06-18-18-18h0Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
